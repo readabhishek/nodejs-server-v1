@@ -1,5 +1,6 @@
 const http = require('http');
 
+// A basic NodeJS server
 const requestListener = function (req, res) {
 
     // Set CORS headers - To handle Cross Origin Resource Sharing
